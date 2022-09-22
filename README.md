@@ -27,9 +27,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrneo28&show_icons=true&locale=en" alt="mrneo28" /></p>
 
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mlneo07/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mlneo07/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mlneo07/discussion)
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ashish-neo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ashish-neo?trk=profile-badge">Ashish Vishwakarma</a></div>
               
